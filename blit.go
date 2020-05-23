@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	PORT  = ":80"
+	PORT  = ":8080"
 	KEY   = "blit.key"
 	CRT   = "blit.crt"
 	STORE = "https://p.mort.coffee"
